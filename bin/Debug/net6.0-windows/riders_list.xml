@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<riders>
+  <rider number="46">
+    <name>Valentino</name>
+    <surname>Rossi</surname>
+    <team>Movistar Yamaha</team>
+    <factory_team>False</factory_team>
+  </rider>
+  <rider number="93">
+    <name>Marc</name>
+    <surname>Marquez</surname>
+    <team>Repsol Honda</team>
+    <factory_team>True</factory_team>
+  </rider>
+</riders>
